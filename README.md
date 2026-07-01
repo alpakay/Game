@@ -10,11 +10,10 @@
 
 ## 📸 Ekran Görüntüleri
 
-*(Lütfen oyundayken ekran görüntüleri (SS) alıp `assets/images/` klasörünün içine kaydedin. İlk fotoğrafın adını `screenshot1.png`, ikinci (menü vb.) fotoğrafın adını `screenshot2.png` yaparsanız burada otomatik olarak harika gözükecektir!)*
 
 ![Oynanış Ekranı](assets/images/screenshot1.png)
 
-![Seviye Atlama](assets/images/screenshot2.png)
+![Oynanış Atlama](assets/images/screenshot2.png)
 
 
 ## 🎮 Özellikler
